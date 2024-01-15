@@ -14,7 +14,7 @@ Automated street light system: Automatic street lights using LDR (Light Dependen
 Conclusion:
 
 An Internet of Things (IoT)-powered Smart City that incorporates features like a weather station, parking system, home automation, and automatic street lighting represents a forward-thinking and sustainable urban future. 
-
+ 
 • The Parking System reduces congestion, saves time, and lowers carbon emissions by guiding drivers to available parking spaces. 
 
 • The Weather Station helps with the collection of real-time weather data, which is important for disaster preparedness and urban planning.
