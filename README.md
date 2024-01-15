@@ -15,11 +15,11 @@ Conclusion:
 
 An Internet of Things (IoT)-powered Smart City that incorporates features like a weather station, parking system, home automation, and automatic street lighting represents a forward-thinking and sustainable urban future. 
 
-*The Parking System reduces congestion, saves time, and lowers carbon emissions by guiding drivers to available parking spaces. 
+• The Parking System reduces congestion, saves time, and lowers carbon emissions by guiding drivers to available parking spaces. 
 
-*The Weather Station helps with the collection of real-time weather data, which is important for disaster preparedness and urban planning.
+• The Weather Station helps with the collection of real-time weather data, which is important for disaster preparedness and urban planning.
  
-*Automatic street lighting reduces light pollution, improves safety, and optimizes energy consumption.
+• Automatic street lighting reduces light pollution, improves safety, and optimizes energy consumption.
 
 Together, these IoT-driven solutions create a harmonious, efficient, and environmentally conscious urban environment. Smart Cities pave the way for a brighter, more sustainable future.
 
